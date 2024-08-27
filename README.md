@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=0xTux&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF3C74&currStreakNum=FFFFFF&dates=FF3C74&sideLabels=FFFFFF&fire=FF3C74&sideNums=FFFFFF&currStreakLabel=62C4FF&border=FF3C74"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Roshanbhadauriya&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=FF3C74&currStreakNum=FFFFFF&dates=FF3C74&sideLabels=FFFFFF&fire=FF3C74&sideNums=FFFFFF&currStreakLabel=62C4FF&border=FF3C74"/>
 </div>
 
 <div>
