@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Roshan Singh Bhadauriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-# 💫 About Me:
-🌱 I’m currently learning **MERN**
+<p align="center">
+   <a href="[https://discord.gg/jwGRprex4C](https://x.com/Roshan_twi)" target="_blank"><img src="https://img.shields.io/badge/-x-0D1117?style=for-the-badge&logo=discord&logoColor=ff3c74"></a>
+   <a href="mailto:roshanbhadoriya178@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ff3c74"></a>
+</p>
 
 ---
 
