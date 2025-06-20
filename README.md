@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Singh Bhadauriya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I break things until the bug become the feature.
+</h3>
 
 <p align="center">
    <a href="[https://discord.gg/jwGRprex4C](https://x.com/Roshan_twi)" target="_blank"><img src="https://img.shields.io/badge/-x-0D1117?style=for-the-badge&logo=discord&logoColor=ff3c74"></a>
