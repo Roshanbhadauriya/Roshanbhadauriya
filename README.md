@@ -19,7 +19,7 @@
 
 ---
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=roshanbhadoriya&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=roshanbhadoriya&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&profanity=false&bar_color=a51d2d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
