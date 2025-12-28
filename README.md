@@ -19,10 +19,8 @@
 
 ---
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=roshanbhadoriya&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
 
-### 🎧 Spotify Playing
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=irvd4a80l4m2v7k2gy3fct4j5&cover_image=true&theme=novatorem&bar_color=ff3c74&bar_color_cover=false)
 
 ---
